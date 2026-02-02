@@ -93,7 +93,7 @@ Con los datos ya preparados, dividí las diferentes preguntas en secciones de Ve
 
 Para mantener una correcta estructura de lectura del proyecto, recomiendo abrir primero el archivo SQL seguido del archivo PBIX. Además, el datset presenta un peso demasiado elevado para poder subirlo a Github por lo que añado el enlace de Kaggle a continuación:
 
-                                                                                    https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset
+https://www.kaggle.com/datasets/saicharankomati/dataco-supply-chain-dataset
 
 Como nota importante y final, el dataset mantiene valores extremos en columnas como por ejemplo el Beneficio por lo que, los resultados en algunas cuestiones pueden ser poco realistas.
 
