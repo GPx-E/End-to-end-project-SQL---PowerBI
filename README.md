@@ -6,7 +6,7 @@ Small learning project where SQL is used as a data filtering tool and PowerBI as
 
 Answer key business questions such as:
 
-```markdown
+```
    1. How do sales and profit evolve over time?  
    2. Which markets and regions generate more sales and profitability?  
    3. Which products are the most sold and the most profitable?  
@@ -27,7 +27,7 @@ Answer key business questions such as:
 - Power Query  
 
 ## Data Architecture (SQL & Power Query)
-```markdown
+```
     1. Importing the CSV dataset into SQL Server.  
     2. Data selection and creation of a view as an information filtering method.  
     3. Connecting the new data view (sql.) with PowerBI  
