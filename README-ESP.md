@@ -3,7 +3,7 @@
 Pequeño proyecto de aprendizaje donde se utiliza SQL como herramienta de filtrado de datos y PowerBI como método de respuesta mediante dashboards a las diferentes preguntas planteadas.
 
 ## Objetivos del Proyecto
-
+ 
 Responder preguntas clave de negocio como:
 
     1. ¿Cómo evolucionan las ventas y el beneficio a lo largo del tiempo?  
