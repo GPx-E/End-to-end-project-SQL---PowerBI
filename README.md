@@ -28,11 +28,11 @@ Answer key business questions such as:
 
 ## Data Architecture (SQL & Power Query)
 ```
-    1. Importing the CSV dataset into SQL Server.  
-    2. Data selection and creation of a view as an information filtering method.  
-    3. Connecting the new data view (sql.) with PowerBI  
-    4. Using Power Query to format the data and add necessary columns.  
-    5. Finally, the necessary metrics were created to help answer the questions.  
+   1. Importing the CSV dataset into SQL Server.  
+   2. Data selection and creation of a view as an information filtering method.  
+   3. Connecting the new data view (sql.) with PowerBI  
+   4. Using Power Query to format the data and add necessary columns.  
+   5. Finally, the necessary metrics were created to help answer the questions.  
 ```
 
 ## Filtered Data and Preparation
